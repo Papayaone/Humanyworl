@@ -1,0 +1,282 @@
+# Translation of Project:About to Spanish (español)
+# Exported from translatewiki.net
+#
+# Author: Armando-Martin
+# Author: Crazymadlover
+# Author: Fitoschido
+# Author: Larjona
+# Author: Laura Ospina
+# Author: Macofe
+# Author: MarcoAurelio
+# Author: Ovruni
+# Author: Shirayuki
+# Author: VegaDark
+# Author: Yllelder
+msgid ""
+msgstr ""
+""
+"PO-Revision-Date: 2020-05-24 23:04:22+0000\n"
+"POT-Creation-Date: 2020-05-24 23:04:22+0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"X-Generator: MediaWiki 1.35.0-alpha; Translate 2020-04-20\n"
+"X-Language-Code: es\n"
+"X-Message-Group: page-Project:About\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. [Wiki] Do not translate the <code>Project:</code> part. It is a name space.
+msgctxt "Project:About/Page_display_title"
+msgid "Project:About"
+msgstr "Project:Acerca de"
+
+#
+msgctxt "Project:About/1"
+msgid "Translatewiki.net is a translation community and a localisation platform for free and open source projects. It started out with localisation for MediaWiki. Later support was added for MediaWiki extensions, FreeCol and other free and open source projects. See the [[:Category:Supported projects|complete list of supported projects]]."
+msgstr "Translatewiki.net es una comunidad de traducción y una plataforma de regionalización para proyectos de código libre y abierto. Comenzó con la regionalización de MediaWiki. Más tarde se añadió compatibilidad con las extensiones de MediaWiki, así como con FreeCol y otros proyectos de código libre y abierto. Consulta la [[:Category:Supported projects|lista completa de proyectos admitidos]]."
+
+#
+msgctxt "Project:About/2"
+msgid "Translatewiki.net is an independent open source project. The translation functionality is provided by the [[mw:Extension:Translate|MediaWiki extension Translate]]. This wiki always contains experimental code, and may be broken occasionally. Please be patient, problems are usually dealt with quickly. Issues can be reported at the [[Support|support page]]."
+msgstr "Translatewiki.net es un proyecto independiente de código abierto. La funcionalidad de traducción es proporcionada por la [[mw:Extension:Translate|extensión de traducción de MediaWiki]]. Este wiki siempre contiene código experimental, y puede tener errores ocasionales. Por favor, sé paciente, los problemas suelen solucionarse rápidamente. Se puede informar sobre los problemas en la [[Support|página de ayuda]]."
+
+#
+msgctxt "Project:About/58"
+msgid "== Why use translatewiki.net =="
+msgstr "== Por qué usar translatewiki.net =="
+
+#
+msgctxt "Project:About/60"
+msgid "'''The best translation tool available on the web.''' All localisation updates happen on an easy interface, and there are people around who can help translators. When making a translation, [[$1|hints]] to understand its correct meaning and use are provided, as well as suggestions from translation memory/machine translation services."
+msgstr "'''La mejor herramienta de traducción disponible en la web.''' Todas las actualizaciones de localización ocurren en una sola interfaz y hay gente que puede ayudar a los traductores. Al hacer una traducción, hay [[$1|hints]] disponibles para entender su significado y su uso correctos, así como sugerencias de servicios de traducción automatizados."
+
+#
+msgctxt "Project:About/61"
+msgid "'''No particular privileges required, everyone can contribute.''' Everyone who can contribute in a language (see below) is allowed to help with the localisation of that language."
+msgstr "'''No se necesitan privilegios particulares; todos pueden contribuir.''' Todos los que puedan contribuir en un idioma (véase abajo) tienen permitido ayudar con la traducción de ese idioma."
+
+#
+msgctxt "Project:About/62"
+msgid "'''Keeping track of changes is easy.''' Untranslated messages are not the only easily found: whenever the source text changes, the affected translations are [[FAQ#FUZZY|tagged]] for easy identification. Translators do not have to spend time digging what needs doing."
+msgstr "'''Mantener un seguimiento de los cambios es fácil.''' Los mensajes sin traducir no son lo único fácil de encontrar: siempre que el texto original cambie, las traducciones afectadas son [[FAQ#FUZZY|etiquetadas]] para una fácil identificación. Los traductores no tienen que gastar tiempo en buscar lo que se necesita hacer."
+
+#
+msgctxt "Project:About/63"
+msgid "[[$1|Enable your software project on translatewiki.net]] if it's not yet."
+msgstr "[[$1|Activa tu proyecto de software en translatewiki.net]] si no lo has hecho aún."
+
+#
+msgctxt "Project:About/40"
+msgid "Overview of translatewiki.net method"
+msgstr "Introducción al método de translatewiki.net"
+
+#
+msgctxt "Project:About/41"
+msgid "On translatewiki.net translators translate the interface of software for products where the English text strings have been isolated from the code and have been organized into individual \"messages\"."
+msgstr "Los traductores de translatewiki.net traducen la interfaz del software de productos donde las cadenas de texto en inglés se han aislado del código y han sido organizadas en \"mensajes\" individuales."
+
+#
+msgctxt "Project:About/42"
+msgid "When a new project joins, the English source messages are imported as well as any existing translations. New and changes English messages are imported multiple times a day."
+msgstr "Cuando se une un nuevo proyecto, se importan los mensajes de origen en inglés, así como los existentes en otros idiomas. Los mensajes nuevos y los cambios de los mensajes en inglés son importados varias veces al día."
+
+#
+msgctxt "Project:About/44"
+msgid "Message documentation is written manually and is usually of better quality where good communication exists with the original software developer team. If source code comments are part of a software project, these are also displayed in the translation interface."
+msgstr "La documentación de los mensajes se transcribe manualmente y es generalmente de mejor calidad donde existe una buena comunicación con el equipo original desarrollador de programación. Si los comentarios de código de origen forman parte de un proyecto de programación, también aparecen en la interfaz de traducción."
+
+#
+msgctxt "Project:About/45"
+msgid "Translators make suggestions to improve or correct an original English message, or adapt it to support localisation. If agreed, these are either implemented by translatewiki.net members who are also developers on the relevant project, or reported to the project developers."
+msgstr "Los traductores hacen sugerencias para mejorar o corregir un mensaje original en inglés o lo adaptan para apoyar la localización. Si existe acuerdo, estas modificaciones son adoptadas por miembros de translatewiki.net que sean también desarrolladores del proyecto pertinente, o son informadas a los desarrolladores del proyecto."
+
+#. [Wiki] The Wikipedia link can be localized to your language Wikipedia if an article exists there.
+msgctxt "Project:About/46"
+msgid "Completed translations for each language are \"[[$1|committed]]\" to the projects by translatewiki.net staff, as soon as the total number of translations for a project in that language has passed the threshold agreed for that project. For frequency of committing and thresholds see the project page of the project in question."
+msgstr "Las traducciones finalizadas para cada idioma son \"[[$1|enviadas]]\" a los proyectos por personal de translatewiki.net, tan pronto como el número total de traducciones para un proyecto en ese idioma haya superado el umbral acordado para ese proyecto. Para saber más acerca de la frecuencia de envío y los umbrales consulte la página del proyecto respectivo."
+
+#
+msgctxt "Project:About/47"
+msgid "The software release of translations which have been committed to a project is controlled and executed by the project administrators and is out of the hands of translatewiki.net."
+msgstr "La versión del software de las traducciones que se han enviado a un proyecto es controlada y ejecutada por los administradores de proyecto y está fuera del control de translatewiki.net."
+
+#
+msgctxt "Project:About/3"
+msgid "Copyright and disclaimers"
+msgstr "Derechos de autor y avisos legales"
+
+#
+msgctxt "Project:About/4"
+msgid "TRANSLATEWIKI.NET MAKES NO GUARANTEE OF VALIDITY"
+msgstr "TRANSLATEWIKI.NET NO HACE NINGUNA GARANTÍA DE VALIDEZ"
+
+#
+msgctxt "Project:About/55"
+msgid "Use the translations in translatewiki.net at your own risk. They are intended to be useful but translatewiki.net cannot guarantee the validity of the content found here."
+msgstr "Usa las traducciones de translatewiki.net bajo tu propio riesgo. Están pensadas para que sean útiles, pero translatewiki.net no puede garantizar la validez del contenido encontrado aquí."
+
+#
+msgctxt "Project:About/56"
+msgid "Translatewiki.net and its editors do not provide any warranty on the contents whatsoever, whether expressed, implied, or statutory, including, but not limited to, any warranty of merchantability or fitness for a particular purpose or any warranty that the contents will be error-free."
+msgstr "Translatewiki.net y sus editores no ofrecen garantía de ningún tipo sobre el contenido, ya sea expresa, implícita o legal, incluyendo, pero sin limitarse a, cualquier garantía de comerciabilidad o idoneidad para un propósito particular o cualquier garantía de que el contenido estará libre de errores."
+
+#
+msgctxt "Project:About/57"
+msgid "Translations by translators are licensed [$1 CC BY 3.0], and derivative works may also be licensed under the licenses of the respective Free and Open Source projects the translations have been or will be added to. Content of user pages are considered to be \"All rights reserved\" by the author. All other content is licensed [$2 CC BY 3.0] unless a different license or copyright is stated explicitly."
+msgstr "Las traducciones realizadas por los traductores poseen licencia [$1 CC-BY 3.0], y los trabajos derivados también pueden disponer de licencia según las políticas de licencias de los respectivos proyectos de código libre y abierto a los que esas traducciones hayan sido o sean agregadas. El contenido de las páginas de usuario se considera que posee \"Todos los derechos reservados\" por el autor. Otro tipo de contenido posee licencia [$2 CC-BY 3.0], a menos que se indique explícitamente una licencia diferente o la existencia de derechos de autor."
+
+#. [Wiki] {{Identical|History}}
+msgctxt "Project:About/5"
+msgid "History"
+msgstr "Historia"
+
+#
+msgctxt "Project:About/6"
+msgid "Translatewiki.net started during 2006 as a test wiki, developed by [[User:Nike|Niklas Laxström]], in collaboration with [[User:Gangleri|Gangleri]], as an internationalisation tool for the localisation of the MediaWiki software. It started under the name Betawiki, which became translatewiki.net at the beginning of 2009, following the site being moved to virtual server hosting under its own domain name, on 9th November 2007. By October 2007 translatewiki.net was contributing to localisation in around 70 languages, which by June 2010 had grown to 329 languages. How the number of languages has grown is visible in the [[Translating:Group_statistics_in_time|table of translation milestones]] passed for MediaWiki. By January 2010 an [$1 upgrade] was needed to the server capacity, to cope with the increase in activity. [$2 Netcup] has generously hosted translatewiki.net since November 2007."
+msgstr "Translatewiki.net comenzó durante el año 2006 como una wiki de prueba, desarrollada por [[User:Nike|Niklas Laxtröm]], en colaboración con [[User:Gangleri|Gangleri]], como una herramienta de internacionalización para la localización del software MediaWiki. Comenzó bajo el nombre de Betawiki, que se convirtió en translatewiki.net a comienzos de 2009, después de la migración del sitio al servidor virtual que lo aloja bajo su propio nombre de dominio, el 9 de noviembre de 2007. En octubre de 2007 translatewiki.net estaba contribuyendo a la localización en alrededor de 70 idiomas, creciendo en junio de 2010 hasta 329 idiomas. Se puede consultar el crecimiento del número de idiomas en la [[Translating:Group_statistics_in_time|tabla de hitos de traducción]] pasada por MediaWiki. En enero de 2010 fue necesaria una [$1 actualización] de la capacidad del servidor, para hacer frente al aumento en la actividad. [$2 Netcup] está alojando generosamente a translatewiki.net desde noviembre de 2007."
+
+#
+msgctxt "Project:About/7"
+msgid "Other free and open source projects have gradually been added to translatewiki.net, starting with FreeCol in August 2007. By June 2010 the number of [[:Category:Supported projects|projects supported]] has grown to 16."
+msgstr "Se han añadido de manera gradual otros proyectos libres y de código abierto a translatewiki.net; el primero de ellos fue FreeCol, en agosto de 2007. En junio de 2010, el número de [[:Category:Supported projects|proyectos admitidos]] había aumentado a 16."
+
+#. [Wiki] If it matters for your language, the staff member described here is male.
+msgctxt "Project:About/8"
+msgid "Most contributors to translatewiki.net are volunteers. Developers, administrators and translators were recruited initially from MediaWiki projects, especially Wikimedia. Most of our contributors still arrive here via MediaWiki, but with more projects arriving all the time, MediaWiki is no longer the only source of contributors. By June 2010, the number of registered translators is 1,860. In June 2018, the number of registered translators is 19,000."
+msgstr "La mayoría de los colaboradores de translatewiki.net son voluntarios. Desarrolladores, administradores y traductores fueron recrutados inicialmente de proyectos de MediaWiki, especialmente Wikimedia. La mayoría de nuestros colaboradores todavía llegan aquí vía MediaWiki, pero con más proyectos llegando todo el tiempo, MediaWiki no es ahora la única fuente de colaboradores. Para junio del 2010, el número de traductores registrados era 1.860. En junio 2018, el número de traductores registrados es 19,000."
+
+#
+msgctxt "Project:About/9"
+msgid "In collaboration with [$1 Stichting Open Progress] and FUDforum, translatewiki.net has arranged several translation rallies with bounties for translators available, to improve the localisation of MediaWiki and FUDforum."
+msgstr "En colaboración con [$1 Stichting Open Progress] y FUDforum, translatewiki.net ha organizado varios rallys de traducción con premios para traductores disponibles, para mejorar la localización de MediaWiki y FUDforum."
+
+#. [Wiki] "NGO" means "[[wikipedia:Non-governmental organization|Non-governmental organization]]".
+msgctxt "Project:About/10"
+msgid "In 2008 the Dutch NGO [$1 Hivos] provided funding via Stichting Open Progress. The grant was to be used to provide [[Translating:Language_project|bounties for translations]] in a list of 70 to 80 languages spoken in Africa, Asia, and Latin America that had a sizable number of speakers, but insufficient support in MediaWiki."
+msgstr "En 2008, la ONG holandesa [$1 Hivos] suministró fondos vía Stichting Open Progress. La ayuda se empleó para ofrecer [[Translating:Language_project|primas para traducciones]] a unos 70 a 80 idiomas hablados en África, Asia y América Latina que tienen un número importante de hablantes, pero un soporte insuficiente en MediaWiki."
+
+#
+msgctxt "Project:About/11"
+msgid "At the end of 2008 [[Project:News/Newsletter_2008-12-2|an end of year translation rally]] open to all translators was held."
+msgstr "Al final de 2008 se desarrolló [[Project:News/Newsletter_2008-12-2|un rally de traducción de fin de año]] abierto a todos los traductores."
+
+#
+msgctxt "Project:About/12"
+msgid "During August 2009 another [[Project:Rally-2009-08|translation rally]] was organized, funded by [$1 Wikimedia Nederland], the Dutch Wikimedia chapter."
+msgstr "En agosto de 2009 se organizó otro [[Project:Rally-2009-08|rally de traducciones]], financiado por [$1 Wikimedia Holanda], el capítulo holandés de Wikimedia."
+
+#
+msgctxt "Project:About/13"
+msgid "[$1 Wikimedia Nederland] also funded the [[Project:Rally-2009-12|2009 end of year rally]]."
+msgstr "[$1 Wikimedia Holanda] también financió el [[Project:Rally-2009-12|rally de fin de año de 2009]]."
+
+#
+msgctxt "Project:About/14"
+msgid "The aims of translatewiki.net are described on the [[Translating:Intro|Introduction]]. Technological aids to translators are described on the [[Technology]] page. These aids are continually being expanded and improved in order to make the translation work as efficient as possible. Current site needs and development are described on [$phab Phabricator]."
+msgstr "Los objetivos de translatewiki.net están descritos en la [[Translating:Intro|introducción]]. Las tecnologías de ayuda para los traductores se describen en la página de [[Technology|tecnología]]. Estas ayudas se expanden y mejoran continuamente a fin de hacer el trabajo de traducción tan eficaz como sea posible. Las necesidades actuales del sitio y el desarrollo se describen en [$phab Phabricator]."
+
+#
+msgctxt "Project:About/15"
+msgid "Funding"
+msgstr "Financiamiento"
+
+#
+msgctxt "Project:About/16"
+msgid "''Translatewiki.net'' is kindly hosted by [$1 Netcup – webspace and vServer], at their expense since November 2007, with upgrades in February 2008, January 2010, October 2013, and July 2015."
+msgstr "''Translatewiki.net'' es alojado gentilmente por [$1 Netcup (espacio web y servidor virtual)], a sus expensas desde noviembre de 2007, con actualizaciones en febrero de 2008, enero de 2010, octubre de 2013 y julio de 2015."
+
+#
+msgctxt "Project:About/18"
+msgid "[$1 Stichting Open Progress] and others have from time to time organized funding for translation rallies to improve the localisation of MediaWiki and others, as explained above."
+msgstr "[$1 Stichting Open Progress] y otros han organizado de vez en cuando la financiación para campañas de traducción para mejorar la localización de MediaWiki y otros, como se explicó anteriormente."
+
+#
+msgctxt "Project:About/64"
+msgid "In 2012 the Wikimedia Foundation Language team worked on a project called Translation UX in which the translatewiki.net main page and our translation interface were replaced by modern, professionally designed and user tested versions."
+msgstr "En 2012, el equipo de idiomas de la Fundación Wikimedia trabajó en un proyecto denominado «Translation UX», a través del cual se remplazaron la página principal de translatewiki.net y su interfaz de traducción por versiones modernas, diseñadas profesionalmente y probadas por usuarios."
+
+#
+msgctxt "Project:About/65"
+msgid "[[User:Nike|Niklas Laxström]] and [[User:Siebrand|Siebrand Mazeland]] are or have been working for the Wikimedia Foundation and have contributed to translatewiki.net during their work time."
+msgstr "[[User:Nike|Niklas Laxström]] y [[User:Siebrand|Siebrand Mazeland]] trabajan o han trabajado para la Fundación Wikimedia y han contribuido con translatewiki.net durante sus horas de trabajo."
+
+#
+msgctxt "Project:About/20"
+msgid "People behind translatewiki.net"
+msgstr "Las personas detrás de translatewiki.net"
+
+#
+msgctxt "Project:About/21"
+msgid "Core team"
+msgstr "Equipo principal"
+
+#
+msgctxt "Project:About/22"
+msgid "Core team members are involved almost daily running translatewiki.net. They also have access to the servers and are responsible for making things run with as few problems as possible. For more information please consult their individual user pages."
+msgstr "Los miembros del equipo central participan casi a diario en la ejecución de translatewiki.net. También tienen acceso a los servidores y son responsables de hacer que el proyecto funcione con la menor cantidad de problemas posibles. Para obtener más información, consulta sus páginas individuales de usuario."
+
+#
+msgctxt "Project:About/23"
+msgid "Founder, all kinds of work"
+msgstr "Fundador, todólogo"
+
+#
+msgctxt "Project:About/24"
+msgid "Community manager, project coordinator, developer"
+msgstr "Gestor de la comunidad, coordinador de proyecto, desarrollador"
+
+#
+msgctxt "Project:About/25"
+msgid "Translation committer for MediaWiki, developer"
+msgstr "Consignador de las traducciones de MediaWiki, desarrollador"
+
+#
+msgctxt "Project:About/26"
+msgid "We also depend on the work done by other members of our community:"
+msgstr "También dependemos del trabajo hecho por otros miembros de nuestra comunidad:"
+
+#
+msgctxt "Project:About/27"
+msgid "Early visionary. No longer active."
+msgstr "Pionero. Ya no participa en el proyecto."
+
+#
+msgctxt "Project:About/28"
+msgid "Ambassador, publicity using direct contact, blogs, StatusNet, Twitter. No longer active."
+msgstr "Embajador, publicidad a través de contacto directo, blogs, StatusNet, Twitter. Desactivados."
+
+#
+msgctxt "Project:About/29"
+msgid "All contacts in individual projects"
+msgstr "Todos los contactos en proyectos individuales"
+
+#
+msgctxt "Project:About/30"
+msgid "All translators and other members of this project"
+msgstr "Todos los traductores y otros miembros de este proyecto"
+
+#. [Wiki] {{Identical|Contact us}}
+msgctxt "Project:About/50"
+msgid "Contact us"
+msgstr "Contáctanos"
+
+#
+msgctxt "Project:About/51"
+msgid "You can leave a message on our main discussion page at [[Support]]. If you prefer live discussion then try out our IRC channel [[Special:WebChat|#mediawiki-i18n at freenode]]. Not preferred, but if needed for security or privacy reasons, you can use email address translatewiki@translatewiki.net"
+msgstr "Puedes dejar un mensaje en nuestra página principal de discusión en [[Support]]. Si prefieres el debate en vivo entonces prueba nuestro canal IRC [[Special:WebChat|#mediawiki-i18n en freenode]]. Aunque no se prefiere, pero si es necesario por razones de privacidad o seguridad, puedes utilizar el correo electrónico translatewiki@translatewiki.net"
+
+#
+msgctxt "Project:About/52"
+msgid "You can discuss issues concerning a particular language with its translators on the talk page of the language portal."
+msgstr "Puedes discutir problemas concernientes a un idioma en particular con sus traductores en la página de discusión del portal del idioma."
+
+#
+msgctxt "Project:About/53"
+msgid "You can discuss issues concerning a particular project with its supporters and the developer liaison on the talk page of the project page."
+msgstr "Puedes discutir asuntos relativos a un proyecto en particular con sus partidarios y el desarrollador de enlace en la página de discusión del proyecto."
+
+#
+msgctxt "Project:About/54"
+msgid "You can discuss issues with individual users on their user talk page, or by e-mail (click on the e-mail link in the sidebar on a user page), if they have chosen to allow e-mail."
+msgstr "Puedes discutir sobre problemas con los usuarios individuales en la página de discusión del usuario, o por correo electrónico (haz clic en el vínculo de correo electrónico en la barra lateral de una página de usuario), si este ha decidido permitir el correo electrónico."
+
